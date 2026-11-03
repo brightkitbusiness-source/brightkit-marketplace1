@@ -1,0 +1,40 @@
+BRIGHTKIT MARKETPLACE — LAUNCH CHECKLIST
+
+WHAT IS INCLUDED
+- Responsive marketplace homepage and product catalogue
+- Five collections: Social & Creators; Business & Finance; Career & Education; Restaurants & Hospitality; Lifestyle & Travel
+- 15 sample product listings: 10 individual products and 5 bundles
+- Search, category filters, individual/bundle tabs, price sorting and a working demo cart
+- Language selector: English, Macedonian, French, German, Russian, Spanish, Mexican Spanish, Italian and Portuguese
+- EUR sample pricing
+
+IMPORTANT: THIS IS A FRONT-END STORE DEMO
+The listed products are product concepts and sample descriptions. The actual downloadable files still need to be created, quality-checked and uploaded. Payment processing, automatic delivery, customer accounts, order management and legal pages are not connected. The cart is a local demo only; checkout intentionally does not take payments.
+
+HOW TO LAUNCH WITH A ZERO HOSTING BUDGET
+1. Create a free GitHub account and a repository named brightkit.
+2. Upload index.html to the repository root.
+3. In Settings → Pages, deploy from the main branch and root folder.
+4. Use the public GitHub Pages URL provided after deployment.
+
+PAYMENTS AND AUTOMATIC DOWNLOADS
+1. Compare digital-download platforms such as Payhip or Gumroad and verify current seller eligibility, payout support for North Macedonia, fees, tax handling and terms before choosing.
+2. Create each product listing on the selected platform and upload the real files.
+3. Copy each product's checkout URL.
+4. Replace each product card's demo Add to cart flow with its corresponding secure checkout link, or integrate a supported storefront checkout.
+5. Test a complete purchase and download from another device before announcing the shop.
+
+BEFORE ACCEPTING CUSTOMERS
+- Create and upload every promised template; do not sell placeholders.
+- Add business contact details, privacy policy, terms of sale, refund policy and product-specific licences.
+- Check local business registration, tax, VAT/digital-sales and consumer-protection obligations with an appropriate professional.
+- Proofread all translations. The current version has full English and Macedonian interface copy; other languages appear in the selector but fall back to English until professional translations are completed.
+- Set realistic product licences and do not claim rights you cannot grant.
+- Test mobile layout, links, prices, checkout and file delivery.
+
+GROWTH
+Start with the 15 focused listings, publish useful demonstrations, collect honest feedback, then expand the best-performing categories. Traffic and sales are not guaranteed; a passive-income store still needs products, marketing and customer support.
+
+
+MULTILINGUAL UPDATE (2026-11-03)
+The storefront interface, category labels, product names and product descriptions are translated for English, Macedonian, French, German, Russian, Spanish, Spanish (Mexico), Italian and Portuguese. The downloadable PDF/CSV product files themselves are still starter editions, primarily English; translated editions need separate proofreading and production before claiming the whole catalogue is localized.
